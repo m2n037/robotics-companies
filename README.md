@@ -10,5 +10,6 @@
 |001 | [Magazino GmbH](http://www.magazino.eu/) | Munich, Germany | Link | Mobile pick-and-place robots for intralogistics |
 |001 | [nuTonomy](www.nutonomy.com) | Cambridge, Massachusetts, USA | [Link](http://www.nutonomy.com/jobs.html) | RnD of of state-of-the-art software for self-driving cars |
 |001 | [Part-Time-Scientists GmbH](http://ptscientists.com/) | Berlin, Germany | [Link](mailto:svenpr@ptscientists.com) | Land the first private mission on the Moon|
+|001 | [Q-Bot](http://q-bot.co/) | SW London, United Kingdom | [Link](mailto:future@q-bot.co) | Robots providing services to housing and construction industries |
 |001 | [Uber ATG](https://www.uber.com/info/atc/) | Pittsburg, USA | [Link](https://boards.greenhouse.io/uber) | Self-driving cars |
 |001 | [Vecna](https://www.vecna.com/) | Cambridge, Massachusetts, USA | Link | custom intelligent autonomous solutions |
